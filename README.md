@@ -6,11 +6,11 @@
 
 > 电　话：15268100047
 
-> E - mail：250840443@qq.com
+> E-mail：250840443@qq.com
 
 > 博　客：http://www.cnblogs.com/StormSpirit/
 
-> &nbsp;Github：https://github.com/Merainy
+> Github：https://github.com/Merainy
 
 ##个人简介
 
@@ -43,12 +43,13 @@
 
 * 提供了一个可扩展的Widget。该Widget的特性：
 
-1. 提供了面向切面的before after方法
+> 1. 提供了面向切面的before after方法
 2. 订阅者模式
 3. 属性继承
 4. 有限状态机
 5. [watch、listen、touch]指令（表达式）用于解耦组件，支持扩展指令，支持适配器
 6. 支持data-API配置方式
+
 
 * 提供了一个autoRender，支持data-API配置方式，自动初始化组件和方法（支持非iTrunk.Widget的自动渲染，如jQuery插件等，理论上可以支持任意组件的自动渲染）。支持适配器扩展。
 * 支持CMD、AMD、直接引入等多种方式使用iTrunk
