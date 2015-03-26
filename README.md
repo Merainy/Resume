@@ -1,10 +1,15 @@
 #简历 - 郑伟
 
 > 四年以上工作经验　|　男　|　25 (1990年2月11日)
+
 > 居住地：浙江金华兰溪
+
 > 电　话：15268100047
+
 > E - mail：250840443@qq.com
+
 > 博　客：http://www.cnblogs.com/StormSpirit/
+
 > &nbsp;Github：https://github.com/Merainy
 
 ##个人简介
